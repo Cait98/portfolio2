@@ -1,6 +1,517 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
-</style>
-<style>
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-</style>
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body {
+background-color:#f8a485;
+margin: 0;
+font-family: 'quicksand', sans-serif;
+}
+
+/* Header Section*/
+
+.header {
+height: 90px;
+background-color:#F2674C;
+color: white;
+border-bottom: 6px solid white;
+}
+
+.nav{
+max-width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
+a:hover {
+background-color:#f8a485;
+}
+
+.logo {
+padding-bottom: 30px;
+}
+
+.logocontainer{
+padding-top: 10px;
+padding-bottom: 20px;
+padding-left: 1px;
+}
+
+.links{
+float: right;
+font-size: 0.75rem;
+color: #484e61;
+margin-top: 42px;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+.links a {
+color: white;
+text-decoration: none;
+padding-left: 10px;
+padding-right: 15px;
+}
+
+/*Banner Section*/
+
+.banner{
+background-color:#f8a485;
+padding: 20px 0;
+text-align: center;
+border-bottom: 6px solid white;
+}
+
+.banner img{
+max-width: 920px;
+width: 90%;
+}
+
+/*Design Section */
+
+.section1{
+width: 328px;
+height: 263px;
+color: white;
+background-color:#F2674C;
+float: left;
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+padding-right: 20px;
+padding-left: 50px;
+}
+
+.websitedesigntext{
+text-align: center;
+}
+
+.section2{
+width: 328px;
+height: 263px;
+color:white;
+background-color:#F2674C;
+float: left;
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+padding-left: 55px;
+}
+
+.webdesigntext{
+text-align: center;
+}
+
+.img-with-text {
+text-align: center;
+width: [212];
+}
+
+
+.magazinesection{
+float: left;
+padding-top: none;
+}
+
+.magsectiontext{
+text-align: center;
+}
+
+/*Logo Image*/
+
+.img2-with-text img{
+display: block;
+margin: 0 auto;
+padding-top: 35px;
+text-align: center;
+width: [271];
+}
+
+.logosectiontext{
+text-align: center;
+align-self: center;
+width: [271];
+padding-right: none;
+
+}
+
+
+.maintitle{
+color:white;
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+font-size: 1.4rem;
+background-color:#F2674C;
+font-weight: bold;
+}
+
+.moretitle{
+color:white;
+font-family: 'Quicksand', sans-serif;
+font-weight: lighter;
+font-size: 1rem;
+background-color:#F2674C;
+border-bottom:46px;
+width:946px;
+padding-right:30px;
+}
+
+.designcontainer{
+max-width:100%;
+height:650px;
+background-color:#F2674C;
+color:white;
+padding-top:40px;
+padding-left:36px;
+padding-right:36px;
+padding-bottom:60px;
+border-bottom:6px solid white;
+}
+
+
+/* Photography Section*/
+
+
+.PhotoContainer{
+max-width:100%;
+height:864px;
+background-color:#f8a485;
+max-width:100%;
+height:564px;
+color:white;
+padding-top:64px;
+padding-left:40px;
+padding-right:40px;
+padding-bottom:66px;
+border-bottom:6px solid white;
+}
+
+.Phototitle{
+color:white;
+font-family: 'Quicksand', sans-serif;
+font-weight:bold;
+font-size: 1.7rem;
+background-color:#f8a485;
+padding-bottom:26px;
+width:946px;
+}
+
+.morewords{
+font-size: 1rem;
+}
+
+.pics1{
+padding-top: 10px;
+}
+
+.pics2{
+padding-top: 10px;
+padding-left: 15px;
+}
+
+.pics3{
+padding-top:10px;
+padding-left:685px;
+}
+
+
+.button1{
+display: inline-block;
+line-height: 0.6;
+padding: 6px 7px;
+text-decoration: none;
+font-weight:lighter;
+color:black;
+background-color:#F2674C;
+border-radius: 4px;
+border-color: #F2674C;
+border-style: solid;
+border-width: thin;
+}
+
+input.button, button.button {
+border: 0px none;
+}
+
+.button2{
+display: inline-block;
+line-height: 0.6;
+padding: 6px 7px;
+text-decoration: none;
+font-weight:lighter;
+color:white;
+background-color:#F2674C;
+border-radius: 4px;
+border-color:#F2674C;
+border-style: solid;
+border-width: thin;
+}
+
+input.button, button.button {
+border: 0px none;
+}
+
+.button3{
+display: inline-block;
+line-height: 0.6;
+padding: 6px 7px;
+text-decoration: none;
+font-weight:lighter;
+color:white;
+background-color:#F2674C;
+border-radius: 4px;
+border-color:#F2674C;
+border-style: solid;
+border-width: thin;
+}
+
+input.button, button.button {
+border: 0px none;
+}
+
+.button4{
+display: inline-block;
+line-height: 0.6;
+padding: 6px 7px;
+text-decoration: none;
+font-weight:lighter;
+color:white;
+background-color:#F2674C;
+border-radius: 4px;
+border-color:#F2674C;
+border-style: solid;
+border-width: thin;
+}
+
+input.button, button.button {
+border: 0px none;
+}
+
+
+.photopics{
+width:100%;
+height:603px;
+}
+
+.pics1{
+float: left;
+padding-right:20px;
+}
+
+.pics2{
+float: left;
+padding-right:20px;
+}
+
+.pics3{
+float: left;
+padding-right:20px;
+position: absolute;
+}
+
+.pics4{
+padding-right: 20px;
+float:left;
+}
+
+
+/* About Me Section*/
+
+
+.Aboutmecontainer{
+max-width:100%;
+height:731px;
+background-color:#F2674C;
+max-width:100%;
+height:564px;
+color:white;
+padding-top:65px;
+padding-left:38px;
+padding-right:38px;
+padding-bottom:60px;
+border-bottom:6px solid white;
+font-family: 'Quicksand', sans-serif;
+}
+
+.Aboutme{
+color: white;
+font-family: 'Quicksand', sans-serif;
+font-weight:bold;
+font-size: 1.5rem;
+padding-bottom:10px;
+width:100%;
+}
+
+.aboutmewords{
+font-size: 1rem;
+font-weight: lighter;
+max-width: 100%;
+}
+
+.aboutmesection1{
+float: left;
+padding-right: 19px;
+}
+
+.section1metitle{
+font-weight:bold;
+font-size: 1.1rem;
+position: absolute;
+padding-bottom:17px;
+width:305px;
+}
+
+.me{
+max-width:305px;
+padding-top:2px;
+font-weight:lighter;
+font-size: 0.9rem;
+}
+
+/* Message Section */
+
+
+.Messagesection{
+background-color:#f8a485;
+height: 450px;
+padding-left:38px;
+padding-right:38px;
+padding-top: 10px;
+border-bottom: 6px: solid #f8a485;
+}
+
+
+.name input, .name input {
+width: 620px;
+color:white;
+border-radius: 10px;
+border: none;
+padding: 10px;
+margin-bottom: 15px;
+background-color:#F2674C;
+}
+.email input, .email input {
+width: 620px;
+padding-bottom:16px;
+margin-bottom: 15px;
+color:white;
+border-radius: 10px;
+border: none;
+padding: 10px;
+color: white;
+background-color:#F2674C;
+}
+
+
+.message input,.message input {
+width: 620px;
+height: 85px;
+padding-bottom: 16px;
+border-radius: 10px;
+border: none;
+padding: 10px;
+}
+
+.message textarea {
+width: 620px;
+height: 95px;
+padding-bottom: 16px;
+color: white;
+border-radius: 10px;
+border: none;
+padding: 10px;
+background-color:#F2674C;
+}
+
+.button input,.button input{
+color: #f8a485;
+border: none;
+
+
+
+.contactwords
+
+}
+
+.iconbox2{
+padding-top: 5px;
+}
+
+
+.contactwords{
+padding-top: 16px;
+color:white;
+font-family: 'Quicksand', sans-serif;
+font-weight:lighter;
+font-size: 1.5rem;
+}
+
+.bottombanner{
+height: 90px;
+max-width: 100%;
+background-color:#F2674C;
+color: white;
+}
+
+.bannermessage{
+padding-top: 30px;
+padding-left: 41px;
+padding-bottom:31px;
+padding-right: none;
+}
+
+
+/* Making the website Responsive*/
+}
+@media screen and (max-wdith:550px){
+
+{ @media screen (min-width:480px)
+}
+
+.logo{
+float: none;
+text-align: center;
+margin-top: 0;
+padding-top: 15px;
+}
+
+.links{
+float: none;
+text-align: center;
+margin-top: 16px;
+}
+
+
+
+.maintitle{
+float: left;
+text-align: left;
+}
+
+.moretitle{
+float: left;
+text-align: left;
+}
+
+.PhotoContainer{
+float: left;
+}
+
+.designcontainer{
+float: left;
+text-align: left;
+overflow: hidden;
+}
+
+
+.pics3{
+max-width: 70%;
+max-height: 70%;
+width: 100%; text-align: center; margin-top:50%
+
+}
+
+
+.messagesection{
+float: left;
+text-align: left;
+}
+
+
+}
+
